@@ -9,6 +9,6 @@ In love with trouble solving and technology in general, more with the Omnistack 
 
 Technology, being in games or apps i've used growing up worked as relief valve, not just it but as a true way to live by, being a companion in my worst and best moments. but also as a way to grow, that is how i see technology, ways to grow as a person. Having that in mind i wish to drop a little of myself in every work i do as a developer, and as a developer solve problems of people.
 
-Some of my deepest interests includes Dark Souls and its lore, RPG and building my own campaign setting on my free time and more recently i took a liking to walks.
+Some of my deepest interests includes Crows(my favorite animals), Dark Souls and its lore, RPG and building my own campaign setting on my free time and more recently i took a liking to walks.
 
 "Time to code and change lives"
