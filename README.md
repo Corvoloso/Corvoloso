@@ -2,7 +2,7 @@
 
 Full Stack Engineer
 
-[![Linkedin Badge](https://img.shields.io/badge/-Igor%20Bezerra-181818?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/igor-alves-bezerra-3401b6156/) - [![Gmail Badge](https://img.shields.io/badge/-igoralves.b18@gmail.com-181818?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:igoralves.b18@gmail.com)  - [![Twitter Badge](https://img.shields.io/badge/-@corvoloso-181818?style=flat-square&labelColor=181818&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/corvoloso) 
+[![Linkedin Badge](https://img.shields.io/badge/-Igor%20Bezerra-181818?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-alves-bezerra-3401b6156/)](https://www.linkedin.com/in/igor-alves-bezerra-3401b6156/) - [![Gmail Badge](https://img.shields.io/badge/-igoralves.b18@gmail.com-181818?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:igoralves.b18@gmail.com)  - [![Twitter Badge](https://img.shields.io/badge/-@corvoloso-181818?style=flat-square&labelColor=181818&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/corvoloso) 
 
 In love with trouble solving and technology in general, more with the Omnistack (NodeJS, ReactJS and React Native). 💻
 
