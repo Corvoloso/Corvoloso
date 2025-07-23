@@ -6,8 +6,8 @@ Full Stack Engineer
 
 He/Him - Stay Safe
 
-In love with trouble solving, innovation and technology. 💻
+Technology was never just about machines or screens for me — it’s how I coped, grew, connected. From games and hardware to full-stack solutions, it’s been a constant companion through highs and lows.
 
-Technology, was always there for me in games or hardware I’ve used growing up worked as relief valve, not only that but also as a true way to live by, being a companion in my worst and best moments. but also as a way to grow, that is how i see technology, ways to grow as a person. Having that in mind i wish to drop a little of myself in every work i do as a developer, and as a developer solve problems of people.
+Today, I see technology as a path for personal and collective growth. That’s why I code: not just to build, but to leave a trace of myself in every solution. I believe in solving real problems for real people — with craft, empathy, and sharp execution.
 
-Allowing us lots of ways to grow as persons. Having that in mind I wish to drop a little of myself in every work I do as a developer, and as a developer solve problems of people.
+My drive comes from solving the unsolvable, shaping systems that help others thrive — and making something meaningful out of it all.
